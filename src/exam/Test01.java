@@ -6,12 +6,9 @@ public class Test01 {
 		System.out.println("원격에서 수정함");
 		System.out.println("로컬에서 수정함...");
 		System.out.println("원격에서 수정함 ~ 충돌시나리오 만들어보자");
-<<<<<<< Updated upstream
 
 		System.out.println("원격에서 수정했어요");
-=======
 		
 		System.out.println("로컬에서 변경사항 - stash에 저장!!");
->>>>>>> Stashed changes
 	}
 }
